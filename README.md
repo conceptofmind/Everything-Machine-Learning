@@ -80,6 +80,14 @@
 #### [CUDA Python](https://developer.nvidia.com/cuda-python#:~:text=CUDA%20Python%20provides%20uniform%20APIs%20and%20bindings%20for,from%20Preferred%20Networks%2C%20for%20GPU-accelerated%20computing%20with%20Python.)
 - [Documentation](https://nvidia.github.io/cuda-python/overview.html)
 
+#### [Horovod](https://github.com/horovod/horovod#install)
+- [Documentation](https://horovod.readthedocs.io/en/stable/)
+
+#### [Fairscale](https://github.com/facebookresearch/fairscale)
+- [Documentation](https://fairscale.readthedocs.io/en/latest/)
+
+#### [DeepSpeed](https://www.deepspeed.ai/)
+
 ## Research Papers
 
 ### Image Generation
