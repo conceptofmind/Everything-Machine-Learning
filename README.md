@@ -14,11 +14,11 @@
 
 #### [wav2vec 2.0](https://github.com/facebookresearch/fairseq)
 - [Paper](https://arxiv.org/abs/2006.11477)
-- [SPEECH RECOGNITION WITH WAV2VEC2](https://pytorch.org/tutorials/intermediate/speech_recognition_pipeline_tutorial.html)
+- PyTorch Tutorial - [SPEECH RECOGNITION WITH WAV2VEC2](https://pytorch.org/tutorials/intermediate/speech_recognition_pipeline_tutorial.html)
 
 #### [Tacotron 2 (without wavenet)](https://github.com/NVIDIA/tacotron2)
 - [Paper](https://arxiv.org/pdf/1712.05884.pdf)
-- [TEXT-TO-SPEECH WITH TACOTRON2](https://pytorch.org/audio/stable/tutorials/tacotron2_pipeline_tutorial.html#sphx-glr-tutorials-tacotron2-pipeline-tutorial-py)
+- PyTorch Tutorial - [TEXT-TO-SPEECH WITH TACOTRON2](https://pytorch.org/audio/stable/tutorials/tacotron2_pipeline_tutorial.html#sphx-glr-tutorials-tacotron2-pipeline-tutorial-py)
 
 #### [CycleGAN-VC3-PyTorch](https://github.com/jackaduma/CycleGAN-VC3)
 - [Paper](https://arxiv.org/abs/2010.11672)
@@ -107,3 +107,7 @@ m = torch.nn.GLU(dim=- 1)
 input = torch.randn(4, 2)
 output = m(input)
 ```
+
+## APIs
+
+### [OpenAI](https://openai.com/api/)
