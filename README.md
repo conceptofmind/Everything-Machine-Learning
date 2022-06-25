@@ -1,14 +1,20 @@
 # Everything-Machine-Learning
+This is just a compilation of resources and references I found useful for Machine Learning. Not a Roadmap or advice. I just needed to clean up my 100 browser tabs.
 
 ## Libraries / Repositories
 
-### Computer Vision
+### Geometry
 
-#### [YOLOv5](https://github.com/ultralytics/yolov5)
+#### PyTorch Geometric
+- [Documentation](https://pytorch-geometric.readthedocs.io/en/latest/index.html)
 
 ### Natural Language Processing
 
 #### [Natural Language Toolkit](https://www.nltk.org/index.html#)
+
+### Computer Vision
+
+#### [YOLOv5](https://github.com/ultralytics/yolov5)
 
 ### Audio
 
@@ -30,6 +36,12 @@
 - [Paper](https://arxiv.org/abs/2106.12423)
 - [Project Page](https://nvlabs.github.io/stylegan3/)
 
+### Robotics
+
+#### [Underactuated Robotics](http://underactuated.csail.mit.edu/index.html)
+- [Course Page](http://underactuated.csail.mit.edu/Spring2021/resources.html#further_material)
+- [YouTube Channel](https://www.youtube.com/channel/UChfUOAhz7ynELF-s_1LPpWg)
+
 ## Books
 
 ### Natural Language Processing
@@ -39,6 +51,14 @@
 ### TensorFlow
 
 ####
+
+### Reinforcement Learning
+
+#### [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/bookdraft2017nov5.pdf)
+
+### Robotics
+
+#### [A Mathematical Introduction to Robotic Manipulation](https://atc.home.ece.ust.hk/files/mls94-complete.pdf)
 
 
 ## Datasets
@@ -94,6 +114,19 @@
 
 #### [DALL-E](https://arxiv.org/abs/2102.12092)
 
+## Mathematics for Machine Learning
+
+### [First Order Differential equations](https://www.khanacademy.org/math/differential-equations/first-order-differential-equations)
+
+## College Courses
+
+### Artficial Intelligence
+- [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/reinforcement.html#Introduction)
+
+### Reinforcement Learning
+- [UCL Course on RL](https://www.davidsilver.uk/teaching/)
+- [CS 285 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- 
 
 ## Activation Functions
 
