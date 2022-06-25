@@ -108,6 +108,7 @@ This is just a compilation of resources and references I found useful for Machin
 
 #### [DeepSpeed](https://www.deepspeed.ai/)
 
+
 ## Research Papers
 
 ### Image Generation
@@ -144,3 +145,24 @@ output = m(input)
 ## APIs
 
 ### [OpenAI](https://openai.com/api/)
+
+### [Alpaca](https://alpaca.markets/)
+- [Paper Trading](https://alpaca.markets/docs/trading/paper-trading/)
+- [OAuth](https://alpaca.markets/docs/oauth/)
+- [Trade Stocks in Your Browser Using Google Colab and Alpaca API](https://alpaca.markets/learn/trade-with-google-colab/)
+- [Integrating Alpaca into an Android App with AppAuth Part 1](https://alpaca.markets/learn/android-dashboard-01/)
+- [Connect and Trade Smart](https://alpaca.markets/learn/marketplug-websockets/)
+- [How to Use OAuth Support?](https://alpaca.markets/learn/oauth-guide/)
+- [Alpaca Trading API Guide – A Step-by-step Guide](https://algotrading101.com/learn/alpaca-trading-api-guide/)
+
+### Quant Connect
+- [Live Trading on QuantConnect Now Free for Students](https://www.quantconnect.com/blog/quantconnect-live-trading-now-free-for-students/)
+- [https://www.quantconnect.com/docs/key-concepts/developing-in-the-ide](https://www.quantconnect.com/docs/key-concepts/developing-in-the-ide)
+- [Introduction to Financial Python](https://www.quantconnect.com/tutorials/tutorial-series/introduction-to-financial-python)
+
+## Blogs
+
+### Finance
+
+#### Coding Finance
+- [Time Value of Money in Python](https://www.codingfinance.com/post/2018-03-19-tvm_py/)
